@@ -1,1 +1,6 @@
 .idea/*
+.DS_Store
+.vagrant/
+Notebook templates/.DS_Store
+Vagrantfile
+mooc-setup-master/
